@@ -1,6 +1,8 @@
 # ComputerVision_Study
 ----------
-you can read some Related contents on my blog: https://chang-aistory.tistory.com/
+Study about computer vision APIs  
+![image](https://user-images.githubusercontent.com/70565663/103340037-6bf30200-4ac6-11eb-9b0a-396c89ecafe1.png)
+
 -----------
 ## Reference  
 * code: https://github.com/chulminkw/DLCV  
